@@ -6,7 +6,7 @@ This repostiory contains my code, write-up, and additional files for my CS 72 fi
 \
 Please note that, apart from the BERT output, all code output can be found within the repsective Jupyter Notebook file.  Please also note that this output may be slighly different from what I report in my write up; due to the random nature of machine learning, my results are not exactly the same across different runs.
 
-File Structure:
+## File Structure:
 - BERT Logs: A directory contianing logs of my hyperparameter tuning and results for the BERT encoder/decoder model.  
     - Binary Classification Log: A log of the hyperparameter tuning and overall results of BERT for the binary classification task.
     - Binary Graphs: Graphs of training and validation accuracy and loss when training the binary BERT classifier with the best hyperparameters
