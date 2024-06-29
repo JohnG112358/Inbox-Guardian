@@ -16,5 +16,4 @@ This repostiory contains the code for Inbox Guardian, a framework to detect irre
     - SGD_Classifier: Code for the logistic regression model and the SVM model
 - Scraping: A directory that contains code related to scraping emails via the Gmail API
     - scrapeEmails: The code to generate the irrelevant/normal/urgent dataset for a Gmail user.  Note, this code relies on the user having "Unimportant," "Normal," and "Urgent" labels and populating them with the appropriate emails.  Also note that, in order to run, this code requires a user to log into their Gmail account and generate a credentials file and token.  I did not inlcude my versions of these files to protect my Gmail account.
-- Guerrerio_J Write Up: A pdf copy of my final write-up
 - requirements.txt: The library versions I used (for reproducability)
