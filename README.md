@@ -1,10 +1,6 @@
-# CS 72 Final Project - Inbox Guardian
-### John Guerrerio
-### john.j.guerrerio.26@dartmouth.edu
+# Inbox Guardian
 
-This repostiory contains my code, write-up, and additional files for my CS 72 final project.  All code was written in Python 3.10.\
-\
-Please note that, apart from the BERT output, all code output can be found within the repsective Jupyter Notebook file.  Please also note that this output may be slighly different from what I report in my write up; due to the random nature of machine learning, my results are not exactly the same across different runs.
+This repostiory contains the code for Inbox Guardian, a framework to detect irrelevant and spam emails based on individual user preferences.
 
 ## File Structure:
 - BERT Logs: A directory contianing logs of my hyperparameter tuning and results for the BERT encoder/decoder model.  
